@@ -1,36 +1,28 @@
-# Agents
+# AI Agents Practice
 
-Agentic AI experiments exploring tool use, planning, and workflow automation.
+Agentic AI experiments focused on tool use, browser/operator workflows, planning, and automation.
 
-## Overview
+## Purpose
 
-This is a AI/ML learning and prototype repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+This repository is for exploring how AI agents can break tasks into steps, use tools, and automate workflows. The main value is showing experimentation with agent behavior rather than only prompt examples.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- Agent workflow exploration
+- Tool/operator style automation concepts
+- Practical experiments for planning and execution loops
 
-## Tech Stack
+## Stack
 
-- Primary language: Not detected by GitHub yet
-- Topics: ai-agents, automation, llm
-
-## Repository Structure
-
-- Top-level folders: web_Operator
-- Top-level files: .gitignore, readme.md
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- AI agents
+- LLM workflows
+- Automation
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Document each agent experiment separately
+- Add diagrams for tool-use flow
+- Add examples of inputs, outputs, and limitations
 
 ## Author
 
